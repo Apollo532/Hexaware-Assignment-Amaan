@@ -1,4 +1,4 @@
-### Project Overview
+### TechShop Project Overview
 
 The TechShop project is an e-commerce application designed to manage a technology store's operations, including customer registration, product management, order placement, order tracking, inventory management, sales reporting, and customer account management. The project is implemented in Python, utilizing object-oriented programming concepts and a MySQL database for data storage.
 
